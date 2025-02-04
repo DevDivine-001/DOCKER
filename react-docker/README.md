@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+docker run --user root react-docker
